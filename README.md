@@ -1,4 +1,4 @@
-# Project Name: Google Search Ads
+# Project Name: Amazon Search Ads
 
 ----------
 ## Overview:
