@@ -7,32 +7,32 @@
 
 <context-param>
 <param-name>adsDataFilePath</param-name>
-<param-value>/home/jifeiqian/Projects/SearchAds/data/deduped/clean_ads.txt</param-value>
+<param-value>/home/zzhou9/Projects/SearchAds/data/deduped/clean_ads.txt</param-value>
 </context-param>
 
 <context-param>
 <param-name>budgetDataFilePath</param-name>
-<param-value>/home/jifeiqian/Projects/SearchAds/simpleads/budget.json</param-value>
+<param-value>/home/zzhou9/Projects/SearchAds/simpleads/budget.json</param-value>
 </context-param>
 
 <context-param>
 <param-name>ctrLogisticRegressionDataFilePath</param-name>
-<param-value>/home/jifeiqian/Projects/SearchAds/data/model/ctr_logistic_model/ctrLogisticRegression.txt</param-value>
+<param-value>/home/zzhou9/Projects/SearchAds/data/model/ctr_logistic_model/ctrLogisticRegression.txt</param-value>
 </context-param>
 
 <context-param>
 <param-name>ctrGBDTDataFilePath</param-name>
-<param-value>/home/jifeiqian/Projects/SearchAds/data/model/ctr_gbdt_model/ctrGbdtRegression.txt</param-value>
+<param-value>/home/zzhou9/Projects/SearchAds/data/model/ctr_gbdt_model/ctrGbdtRegression.txt</param-value>
 </context-param>
 
 <context-param>
 <param-name>uiTemplateFilePath</param-name>
-<param-value>/home/jifeiqian/Projects/SearchAds/SearchAds/WebContent/ui.html</param-value>
+<param-value>/home/zzhou9/Projects/SearchAds/SearchAds/WebContent/ui.html</param-value>
 </context-param>
 
 <context-param>
 <param-name>adTemplateFilePath</param-name>
-<param-value>/home/jifeiqian/Projects/SearchAds/SearchAds/WebContent/item.html</param-value>
+<param-value>/home/zzhou9/Projects/SearchAds/SearchAds/WebContent/item.html</param-value>
 </context-param>
 
 <context-param>
@@ -67,12 +67,12 @@
 
 <context-param>
 <param-name>mysqlUser</param-name>
-<param-value>jifeiqian</param-value>
+<param-value>zzhou9</param-value>
 </context-param>
 
 <context-param>
 <param-name>mysqlPass</param-name>
-<param-value>Qx6y123Y@</param-value>
+<param-value>root</param-value>
 </context-param>
 
 <servlet>
