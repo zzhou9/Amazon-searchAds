@@ -67,7 +67,7 @@
 
 <context-param>
 <param-name>mysqlUser</param-name>
-<param-value>zzhou9</param-value>
+<param-value>root</param-value>
 </context-param>
 
 <context-param>
